@@ -1,7 +1,7 @@
 <h1>Hey! Nice to meet you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Artyom, Backend developer from <img src="https://cdn-icons-png.flaticon.com/128/197/197408.png" width="13"/> <b>Saint-Petersburg, Russia</b></p>
+<p>Welcome to my page! </br> I'm Artem, Backend developer from <img src="https://cdn-icons-png.flaticon.com/128/197/197408.png" width="13"/> <b>Saint-Petersburg, Russia</b></p>
 <h3>Things I code with</h3>
 <p> 
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
