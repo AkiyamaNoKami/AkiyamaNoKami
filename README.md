@@ -27,5 +27,5 @@
   <img style="weight: 50px; height: 50px;" alt="Golang" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
 </p>
 <p>
-  <img alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkiyamaNoKami&theme=blue-green" />
+
 </p>
